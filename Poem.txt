@@ -12,3 +12,9 @@ Dijon
 Valloire
 Reims
 This is Touring France
+
+Cambridgeshire
+M11
+Kent
+Eurotunnel
+This is the start of the tour.
