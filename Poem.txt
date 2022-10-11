@@ -6,3 +6,9 @@ Sunshine
 Lakes
 Mountains
 This is Punta Bagna
+
+Troyes
+Dijon
+Valloire
+Reims
+This is Touring France
